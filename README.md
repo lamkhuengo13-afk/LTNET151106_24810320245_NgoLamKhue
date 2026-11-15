@@ -73,22 +73,27 @@
 
 **1. Sơ đồ bàn bida**
 
+<img width="1917" height="1017" alt="01_So_do_ban_bida" src="https://github.com/user-attachments/assets/226addcf-1633-46a5-8496-fc49d7f00526" />
 
 
 **2. Mở bàn và tính giờ**
+<img width="1917" height="1015" alt="02_Mo_ban_va_tinh_gio" src="https://github.com/user-attachments/assets/8bedd512-2d8e-48cd-875b-5dbb065c8694" />
 
 
 **3. Gọi dịch vụ bằng DataTable**
 
+<img width="1917" height="1013" alt="03_Goi_dich_vu_DataTable" src="https://github.com/user-attachments/assets/5bfe1d2b-74f3-43a8-8073-e7f6491b1e37" />
 
 **4. Thanh toán hóa đơn**
-
-
+<img width="1917" height="1018" alt="04_Thanh_toan_hoa_don" src="https://github.com/user-attachments/assets/4e48176d-0f29-48ff-a034-d89756e5c728" />
 
 **5. Bàn trở về trạng thái trống sau thanh toán**
 
+<img width="1917" height="1018" alt="05_Ban_trong_sau_thanh_toan" src="https://github.com/user-attachments/assets/b912928a-5af8-450a-af61-d1327aae2891" />
 
 
----
+
+
+
 
 **Sinh viên thực hiện: Ngô Lam Khuê**
