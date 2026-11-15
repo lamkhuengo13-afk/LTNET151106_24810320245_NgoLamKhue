@@ -1,4 +1,4 @@
-<img width="1161" height="750" alt="01_Quan_ly_dau_sach" src="https://github.com/user-attachments/assets/bc9d63fc-2143-41cd-a0a6-683ea17e3cba" /># BÁO CÁO BÀI TẬP LẬP TRÌNH .NET 15/11/2026
+# BÁO CÁO BÀI TẬP LẬP TRÌNH .NET 15/11/2026
 
 ## 1. THÔNG TIN SINH VIÊN
 
