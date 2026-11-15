@@ -46,22 +46,27 @@
 
 **1. Tiếp nhận bệnh nhân**
 
+<img width="1917" height="1015" alt="01_Tiep_nhan_benh_nhan" src="https://github.com/user-attachments/assets/6d8ccaf7-5344-4ea5-967a-5fd396acc471" />
 
 
 **2. Quản lý danh mục thuốc**
 
+<img width="1917" height="1018" alt="02_Quan_ly_danh_muc_thuoc" src="https://github.com/user-attachments/assets/c4efdbc4-26ce-4e15-ad7b-9858f3b2782b" />
 
 
 **3. Kê đơn thuốc**
 
+<img width="1917" height="1012" alt="03_Ke_don_thuoc" src="https://github.com/user-attachments/assets/1ab59732-5cd7-497e-b92e-1f78e184c307" />
 
 
 **4. Kiểm tra tồn kho và Rollback Transaction**
 
+<img width="1917" height="1015" alt="04_Kiem_tra_ton_kho_rollback" src="https://github.com/user-attachments/assets/9d10eaeb-6fc6-4974-8185-ee76560a6ac2" />
 
 
 **5. Thanh toán và in hóa đơn**
 
+<img width="1917" height="1010" alt="05_Thanh_toan_va_in_hoa_don" src="https://github.com/user-attachments/assets/ac2c48aa-5620-43d8-8e04-9605873edbba" />
 
 
 ### BÀI 6.8 – HỆ THỐNG QUẢN LÝ BÀN BIDA VÀ DỊCH VỤ GIẢI TRÍ
